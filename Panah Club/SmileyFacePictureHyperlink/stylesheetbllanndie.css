@@ -1,0 +1,311 @@
+html, body, div, span, applet, object, iframe, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+      }
+.h1     
+        {font-size: 40px;
+         color: #ffffff;
+         text-shadow: 2px 3px 3px #022264;
+         text-align: center;
+         font-family: "press start 2p";
+        }
+
+h2      
+        {text-align: center;
+         color: rgba(0, 0, 0, 0.844);
+         border: 5px dotted rgba(109, 177, 255, 0.279);
+        }
+
+p      
+         {font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+         font-size: 15px;
+         text-align: center;
+         text-shadow: 10px;
+         color: #000000c0;
+        line-height: 20px;}
+
+#cool   
+        {
+        opacity: 60%;
+        width: 500px;
+        height: 600px;
+        margin:auto;
+        border: ridge #ffffff;
+        display: block;
+        }
+#Shrek
+        {
+        opacity: 80%;
+        border: ridge #818fc3;
+        }
+
+hr      
+        {
+        border: 2px dotted rgba(109, 177, 255, 0.279);
+        }
+
+#salam      
+        {
+        text-decoration: none;
+        }
+
+#salam:visited
+        {
+        color: #000000;
+        }
+
+#nef:hover 
+        {
+        color: rgb(255, 112, 112);
+        opacity: 80%;
+        }
+
+#ballin 
+        {
+        opacity: 70%;
+        display: block;
+        margin: auto;
+        }
+
+#shreklink
+        {
+        width: 30%;
+        height:auto;       
+        }
+
+#shreklink:hover
+        {
+        opacity: 80%;
+        }
+#bllannd
+        {
+        color: rgba(240, 255, 255, 0.844);
+        text-decoration: none;
+        }
+#bllannd:hover
+        {
+        color: rgb(255, 112, 112);
+        opacity: 80%; 
+        }  
+
+table, th, td 
+        {
+        border: 2px groove #000000;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #176aa1;
+        font-size: 17px;
+        background-color: rgba(255, 255, 255, 0.7);
+        border-radius: 7px;
+        margin: auto;
+        
+        }
+table   
+        {
+         border-spacing: 8px ;  
+        }
+
+th
+        {
+         padding-top: 8px;
+         padding-bottom: 8px;       
+        }
+
+td     
+        {
+         text-align: center;
+         padding-top: 4px;
+         padding-bottom: 4px;
+        }
+
+#Header
+        {
+         color:#176aa1;
+         text-decoration: none;
+        }
+
+#Header:hover
+        {
+         color: rgb(255, 112, 112);
+         opacity: 80%;       
+        }
+
+#artwork1
+        {
+         margin: auto;
+         display: block;
+         opacity: 85%;
+         height: 500px;
+         width: 350px;
+         text-decoration: none;
+        }
+
+#artwork2
+        {
+         margin: auto;
+         display: block;
+         opacity: 85%;
+         height: 500px;
+         width: 350px;
+         text-decoration: none;
+        }
+
+#artwork3
+        {
+         margin: auto;
+         display: block;
+         opacity: 85%;
+         height: 500px;
+         width: 350px;
+         text-decoration: none;
+        }
+
+
+#descriptiontitle
+        {
+         color: rgba(0, 0, 0, 0.6);
+         font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+        }
+
+#discription
+        {
+         color: #001745;
+        }
+
+#description:hover
+        {
+         color: rgb(255, 112, 112);
+         opacity: 80%;
+        } 
+
+#firstth 
+        {
+         width: 20%;
+        }
+
+#pressstart2p
+        {
+         color: #d5d5d5;
+         font-size: large;
+         font-family: "press start 2p";
+        }
+
+.email
+        {
+         font-family:"press start 2p";
+         font-size: 10px;
+         text-align: center;
+        }
+
+ul      
+        {
+         list-style-type: none;
+         background-color: rgb(42, 42, 42);
+         margin: 0;
+         padding: 0;
+         overflow: hidden;
+         
+        }
+
+li      
+        {
+         float: left;
+        }
+
+li a    
+        {
+         color: #000000;
+         padding: 12px;
+         display: block;
+         text-align: center;
+        }
+
+li a:hover 
+        {
+         background-color: #00000040;
+        }
+
+.bing
+        {
+         margin: auto;
+         display: block;
+         border: none;
+        }
+
+.works
+        {
+         color: #000000;
+         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+         text-decoration: none;
+        }
+
+.works:hover
+        {
+         color: white;
+         background-color: #176aa17a;
+        }
+.footer
+        {
+         color: #ffffff;
+         text-decoration: none;
+         font-size: 15px;
+         font-family:Cambria, Cochin, 'Arial Narrow', Arial, sans-serif;
+        }
+
+.textarea
+        {
+         font-size: 15px; 
+        }
+.country
+        {
+        font-size: 18px;
+        }
+.docs
+        {
+        font-size: 10px;
+        font-family: "press start 2p";
+        color: white;
+        }
+.topic
+        {
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: white;
+        font-size: 25px;
+        }
+.little
+        {
+        font-size: 20px;
+        }
+.cookies
+        {
+        font-size: 15px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        color: rgb(0, 0, 0);
+        }
+#ulheader
+        {
+        background-color: transparent;
+        height: auto;
+        position: fixed;
+        width: 100%;
+        }
+.header
+        {
+        color: #ffffff;
+        text-decoration: none;
+        font-size: 15px;
+        font-family: "press start 2p";
+        }
+.header:hover
+        {
+        background-color: #0000002e;        
+        }
+.header:hover
+        {
+        color: #ffffff;
+        }
